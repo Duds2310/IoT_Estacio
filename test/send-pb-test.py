@@ -21,6 +21,6 @@ if __name__ == '__main__':
     
     while True:
         send_pb()
-        time.sleep(5)
+        time.sleep(2)
 
 
